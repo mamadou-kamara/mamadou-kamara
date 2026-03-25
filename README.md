@@ -31,4 +31,4 @@ I help businesses make better decisions using data.
 
 ## 📫 Contact
 
-* LinkedIn: (ajoute ton lien)
+* LinkedIn: www.linkedin.com/in/mamadoukamara-analytics
