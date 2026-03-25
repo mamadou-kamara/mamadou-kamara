@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mamadou Kamara
 
-<!--
-**mamadou-kamara/mamadou-kamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Data Analyst | Business & Strategy
 
-Here are some ideas to get you started:
+I help businesses make better decisions using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I do
+
+* Analyze data to generate actionable insights
+* Build dashboards (Power BI)
+* Work with SQL & Python
+
+---
+
+## 📊 Featured Projects
+
+* 📌 Customer Churn Analysis → Reduce customer loss
+* 📌 Sales Performance Dashboard → Optimize revenue
+
+---
+
+## 🛠️ Tools
+
+* SQL (PostgreSQL)
+* Python (Pandas)
+* Power BI
+
+---
+
+## 📫 Contact
+
+* LinkedIn: (ajoute ton lien)
